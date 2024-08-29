@@ -47,9 +47,10 @@ The *Standard Network Establishment Agreement.* includes principles for operatin
 
 The simpler Accelerated *Network Establishment Agreement* can be used where a lighter-touch governance arrangement is appropriate.
 
-## Links
+## Links to templates
 
-The MOU template is here (pdf version: )
-The Standard Network Establishment Agreement is here 
-The Accelerated Network Establishment Agreement is here 
+- Memorandum of Understanding : [text](https://github.com/information-sharing-networks/Framework/blob/main/ANNEX%20A%20-%20Framework%20for%20ISNs%20-%20Standard%20Network%20Establishment%20Agreement%20-%20TEMPLATE.md) / [pdf](https://github.com/information-sharing-networks/Framework/blob/main/ANNEX%20A%20-%20Framework%20for%20ISNs%20-%20Standard%20Network%20Establishment%20Agreement%20-%20TEMPLATE.pdf)
 
+- Standard Network Establishment Agreement: [text](https://github.com/information-sharing-networks/Framework/blob/main/ANNEX%20A%20-%20Framework%20for%20ISNs%20-%20Standard%20Network%20Establishment%20Agreement%20-%20TEMPLATE.md) / [pdf](https://github.com/information-sharing-networks/Framework/blob/main/ANNEX%20A%20-%20Framework%20for%20ISNs%20-%20Standard%20Network%20Establishment%20Agreement%20-%20TEMPLATE.pdf)
+
+- Accelerated Network Establishment Agreement: [text](https://github.com/information-sharing-networks/Framework/blob/main/ANNEX%20B%20-%20%20Framework%20for%20ISNs%20-%20Accelerated%20Network%20Establishment%20Agreement%20-%20TEMPLATE%20.md) / [pdf](https://github.com/information-sharing-networks/Framework/blob/main/ANNEX%20B%20-%20%20Framework%20for%20ISNs%20-%20Accelerated%20Network%20Establishment%20Agreement%20-%20TEMPLATE%20.pdf)
